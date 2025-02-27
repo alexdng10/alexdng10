@@ -24,5 +24,9 @@
   <img src="https://greptile-stats.vercel.app/api/widget/alexdng10/archtype" alt="Github Archetype">
 </p>
 
+<p align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/alexdng10/highlights" alt="Github Archetype">
+</p>
+
 
 
