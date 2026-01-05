@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/hungqdang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-- 🚀 **Currently:** Documenting my journey of building AI/ML tools daily at **Commit Push Daily**.
+- 🚀 **Currently:** Building creative recoverys app and learning new techstack.
 - 🏆 **Major Win:** 1st Place @ **Consensus 2024** ($20,000 CAD Prize) for **VeggieTeria**.
 - 🧠 **Focus:** Building production-grade AI agents and computer vision systems.
 - 🎓 **Education:** Dean's Honour List 2024, 2025 at Western University.
