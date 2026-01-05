@@ -1,25 +1,44 @@
-<h1 align="center">Hi 👋, I'm Que Hung Dang</h1>
-<h3 align="center">A machine learning developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Hung Que Dang (Que)</h1>
+<h3 align="center">CS @ Western University '26 | Full-Stack & AI Builder | @commitpushdaily</h3>
 
-- 🔭 I’m currently working on **FinSight AI**
-
-- 👯 I’m looking to collaborate on **CorVUE**
-
-- 🤝 I’m looking for help with **Tensorflow**
-
-- 📫 How to reach me **hungqdang0510@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hungqdang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hungqdang/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://youtube.com/@commitpushdaily"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/commitpushdaily"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hungqdang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🚀 **Currently:** Documenting my journey of building AI/ML tools daily at **Commit Push Daily**.
+- 🏆 **Major Win:** 1st Place @ **Consensus 2024** ($20,000 CAD Prize) for **VeggieTeria**.
+- 🧠 **Focus:** Building production-grade AI agents and computer vision systems.
+- 🎓 **Education:** Dean's Honour List 2024, 2025 at Western University.
+
+---
+
+### 📺 Featured DevLogs & Demos
+I record the technical architecture and logic behind every project to provide 100% transparency on my builds.
+
+* **[DevMind 2.0](https://www.youtube.com/watch?v=pPYEM9Kf41k)** — An AI coding agent built with **Groq API** for sub-second inference. Implements line-by-line code modification, addition, and deletion without replacing full blocks, maximizing developer efficiency.
+* **[Vestique (HackUTD 2024)](https://www.youtube.com/watch?v=ZASINIB-IOM)** — Sustainable fashion AI using **Llama Vision** and **SambaNova**. Features real-time clothing classification, edge detection for wardrobe tracking, and an automated marketplace for unworn items.
+* **[VeggieTeria (Consensus 2024)](https://www.youtube.com/watch?v=qHEg6rXA_FI)** — A blockchain-integrated "Eat-to-Earn" platform. Uses **Google Cloud Vision** for real-time food recognition and **Polkadot’s Unique Network** for secure NFT transactions.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL, Assembly, R.
+- **AI/ML:** TensorFlow, PyTorch, Llama Vision, Groq API, SambaNova, MediaPipe.
+- **Full-Stack:** React, Node.js, Flask, Vite, PostgreSQL, JWT, WebRTC.
+- **Web3/IoT:** Polkadot, NEAR Protocol, Robonomics, Talisman.
+
+---
+
+### 📊 Github Stats
 <p align="center">
   <img src="https://greptile-stats.vercel.app/api/widget/alexdng10/private-stats" alt="Github Stats">
 </p>
 
+---
 
-
-
+### 📬 Connect with me
+- 📧 **Email:** [hungqdang0510@gmail.com](mailto:hungqdang0510@gmail.com)
+- 🐦 **X (Twitter):** [@commitpushdaily](https://x.com/commitpushdaily)
+- 🎥 **YouTube:** [@commitpushdaily](https://www.youtube.com/@commitpushdaily)
