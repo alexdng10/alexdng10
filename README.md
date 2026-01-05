@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hung Que Dang (Que)</h1>
+<h1 align="center">Hi 👋, I'm Hung Que Dang (Alex)</h1>
 <h3 align="center">CS @ Western University '26 | Full-Stack & AI Builder | @commitpushdaily</h3>
 
 <p align="center">
